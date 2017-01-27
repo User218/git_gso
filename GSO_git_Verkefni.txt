@@ -4,3 +4,6 @@ Inngangur:
 Gögn:
 Gögn geta verið í ýmsum formum eins og rafrænum eða stafrænum. Rafræn gögn eru upplýsingar í raftækjum sem raftækin skilja, eins og skipanir. Stafræn gögn eru upplýsingar í stafrænu formi, eins og þessi ritgerð, sem notar bókstafi til þess að koma á framfar þeim upplýsingum sem skráin inniheldur. Svo eru til önnur form af gögnum eins og myndbönd og hljóðskrár sem nota myndir eða hljóð í staðin fyrir bókstafi.
 
+Gagnasöfn:
+Gagnasöfn eru eins og möppur sem innihalda mörg gögn. Dæmi um gagnasöfn geta verið: Bókasöfn, bækur, google og youtube.
+
