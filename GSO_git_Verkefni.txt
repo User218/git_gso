@@ -7,3 +7,6 @@ Gögn geta verið í ýmsum formum eins og rafrænum eða stafrænum. Rafræn g�
 Gagnasöfn:
 Gagnasöfn eru eins og möppur sem innihalda mörg gögn. Dæmi um gagnasöfn geta verið: Bókasöfn, bækur, google og youtube.
 
+Gagnasafnskerfi:
+Gagnasöfn geta líka verið kölluð gagnasafnskerfi af því að gagnasöfn eru bara kerfi sem geyma gögn.
+
