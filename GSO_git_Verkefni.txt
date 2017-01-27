@@ -13,7 +13,10 @@ Gagnasöfn geta líka verið kölluð gagnasafnskerfi af því að gagnasöfn er
 Færslur:
 Færslur eru skrár sem einhver hefur sett inn á netið eða sent í gegn um netið.
 
-Skrár
+Skrár:
 Skrár eru Stafræn gögn sem geta annað hvort verið í tölvu eða á blaði.
 
+ Skráarsnið:
+ Skráasnið er hvernig allt í skránni er sett upp og hvernig allt lítur út inni í skránni.
+ 
  
