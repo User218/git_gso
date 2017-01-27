@@ -10,3 +10,6 @@ Gagnasöfn eru eins og möppur sem innihalda mörg gögn. Dæmi um gagnasöfn ge
 Gagnasafnskerfi:
 Gagnasöfn geta líka verið kölluð gagnasafnskerfi af því að gagnasöfn eru bara kerfi sem geyma gögn.
 
+Færslur:
+Færslur eru skrár sem einhver hefur sett inn á netið eða sent í gegn um netið.
+
