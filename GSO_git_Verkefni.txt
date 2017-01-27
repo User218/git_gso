@@ -16,7 +16,8 @@ Færslur eru skrár sem einhver hefur sett inn á netið eða sent í gegn um ne
 Skrár:
 Skrár eru Stafræn gögn sem geta annað hvort verið í tölvu eða á blaði.
 
- Skráarsnið:
- Skráasnið er hvernig allt í skránni er sett upp og hvernig allt lítur út inni í skránni.
+Skráarsnið:
+Skráasnið er hvernig allt í skránni er sett upp og hvernig allt lítur út inni í skránni.
  
- 
+Lokaorð:
+Þá hafið þið það. Þetta var ritgerð um gögn, gagnasöfn og skrár. Ég vona að þið hafið lært eitthvað þótt að þetta sé ekki skrifað af sérfræðingi.
